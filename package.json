@@ -1,0 +1,23 @@
+{
+  "name": "javascript-jest",
+  "version": "1.0.0",
+  "description": "starter project for javascript + jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mob-programming/node-javascript-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mob-programming/node-javascript-jest/issues"
+  },
+  "homepage": "https://github.com/mob-programming/node-javascript-jest#readme",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
